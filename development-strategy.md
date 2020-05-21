@@ -149,13 +149,10 @@ As a user I want to be able to open the webpage on different devices.
 
 ### CSS
 
-- Media queries components
+- Media queries components.
 
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+- Wrote complete README.
+- Validated code to check for any last mistakes.
