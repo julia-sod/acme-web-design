@@ -4,7 +4,7 @@
 
 - This project is great for beginners. 
 - With the help of this project you can learn how to build a clean coded responsive mobile friendly HTML5 website.
-- It helps you to learn Co
+- It helps you to learn and understand the basics of HTML and CSS, how to build development strategy and work with branches.
 
 ## Wireframe
 
